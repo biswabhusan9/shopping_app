@@ -47,7 +47,7 @@ const ResponsiveMenu = ({ openNav, setOpenNav }) => {
                   <button
                     className="w-full mt-4 bg-red-600 text-white text-base font-medium py-2 rounded-md hover:bg-red-700 transition duration-200"
                   >
-                    Login
+                    Sign In
                   </button>
                 </SignInButton>
               </li>
